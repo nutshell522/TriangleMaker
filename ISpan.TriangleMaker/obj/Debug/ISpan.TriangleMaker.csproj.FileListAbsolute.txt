@@ -1,0 +1,6 @@
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\bin\Debug\ISpan.TriangleMaker.dll
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\bin\Debug\ISpan.TriangleMaker.pdb
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\obj\Debug\ISpan.TriangleMaker.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\obj\Debug\ISpan.TriangleMaker.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\obj\Debug\ISpan.TriangleMaker.dll
+C:\Users\jjboy\Desktop\ISpan.TriangleMaker\ISpan.TriangleMaker\obj\Debug\ISpan.TriangleMaker.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpan.TriangleMaker", "ISpan.TriangleMaker\ISpan.TriangleMaker.csproj", "{B72B9064-C18D-4676-8DC2-D907378858ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpan.TriangleMaker.UnitsTests", "ISpan.TriangleMaker.UnitsTests\ISpan.TriangleMaker.UnitsTests.csproj", "{22995E69-E0F3-4EF7-9FB0-93B3F71C227F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72B9064-C18D-4676-8DC2-D907378858ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B9064-C18D-4676-8DC2-D907378858ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72B9064-C18D-4676-8DC2-D907378858ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72B9064-C18D-4676-8DC2-D907378858ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22995E69-E0F3-4EF7-9FB0-93B3F71C227F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22995E69-E0F3-4EF7-9FB0-93B3F71C227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22995E69-E0F3-4EF7-9FB0-93B3F71C227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22995E69-E0F3-4EF7-9FB0-93B3F71C227F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9892DAC1-E412-4473-A87A-47DA3D80A526}
+	EndGlobalSection
+EndGlobal
